@@ -19,8 +19,8 @@ Finally, I used to apply styling to my components to enhance the visual presenta
 
 ## How to run the project?
 
-First, make sure you have Node.js and npm (Node Package Manager) installed on your system. You can download and install them from Node.js website.
-In your VS code terminal run --> git clone <repository-url>
-then Navigate to the Project Directory --> cd <project-directory>
+First, make sure you have Node.js and npm (Node Package Manager) installed on your system. You can download and install them from Node.js website.<br>
+In your VS code terminal run --> git clone repository-url <br>
+then Navigate to the Project Directory --> cd project-directory <br>
 then run command --> npm start
 
